@@ -56,7 +56,7 @@ Deploy the backend and frontend to your preferred cloud provider or hosting serv
 
 
 
-**Sourced from MIT License**
+**This project is refernced from MIT License**
 
 
 
