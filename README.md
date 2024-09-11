@@ -37,24 +37,28 @@ The **Secure File Storage and Sharing System** is a full-stack web application t
 
 ```bash
 git clone https://github.com/arjunraj79/SecureFileStorageAndSharingSystemOnAzure.git
-cd SecureFileStorageAndSharingSystemOnAzureUsage ```bash
-
-
+cd SecureFileStorageAndSharingSystemOnAzureUsage
+```
 
 Open the frontend application in your browser.
 Use the file input to select a file.
 Click "Upload" to upload the file to the backend.
 The backend will handle file encryption and upload it to Azure Blob Storage.
 
-2.Deployment
+#### 2.Deployment
 Deploy the backend and frontend to your preferred cloud provider or hosting service. Make sure to update environment variables accordingly for production.
 
-3.Troubleshooting
-CORS Issues: Ensure that CORS is enabled on the backend server to allow requests from the frontend.
-Authentication Errors: Verify that Azure credentials and Key Vault configurations are correct.
-Branch Protection Errors: If you encounter issues pushing to GitHub, ensure you follow the branch protection rules or create a pull request.
+#### 3.Troubleshooting
+**CORS Issues:** Ensure that CORS is enabled on the backend server to allow requests from the frontend.
+**Authentication Errors:** Verify that Azure credentials and Key Vault configurations are correct.
+**Branch Protection Errors:** If you encounter issues pushing to GitHub, ensure you follow the branch protection rules or create a pull request.
 
 
 
 
 **Sourced from MIT License**
+
+
+
+
+
