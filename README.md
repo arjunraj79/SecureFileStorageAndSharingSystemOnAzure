@@ -37,7 +37,10 @@ The **Secure File Storage and Sharing System** is a full-stack web application t
 
 ```bash
 git clone https://github.com/arjunraj79/SecureFileStorageAndSharingSystemOnAzure.git
-cd SecureFileStorageAndSharingSystemOnAzureUsage ```
+cd SecureFileStorageAndSharingSystemOnAzureUsage ```bash
+
+
+
 Open the frontend application in your browser.
 Use the file input to select a file.
 Click "Upload" to upload the file to the backend.
